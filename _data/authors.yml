@@ -2,32 +2,34 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Abigail Polin
+  email:             abigail@caltech.edy
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    I am a theoretical and computational astrophysicist currently working as a joint postdoctoral research fellow at Carnegie Observatories and Caltech. Before moving to Pasadena I finished my PhD at the University of Califonia, Berkeley, working with my thesis advisors Peter Nugent and Dan Kasen. 
+
+    My research spans the area of astrophysical transients. I create hydrodynamical simulations to examine the theory behind astrophysical explosions, then perform radiative transport calculations to produce testable predictions that can be compared directly to observed data.
+
+    Check out the Research tab to read more about my work and see I'm currently thinking about. Or follow this link for an up to date list of publications.
+
+#    During graduate school I focused on sub-Chandrasekhar mass white dwarf explosions as progenitors of Type Ia supernovae. My thesis accurately predicted the observable properties associated with sub-Chandrasekhar explosions, which were later seen in SN2018byg, establishing the most direct evidence to date that there are multiple mechanisms through which white dwarfs explode.
 
   # This photo will be used in the about section
   picture:
-    path:            https://placehold.it/128x128
+    path:            /assets/icons/abi.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+      1x:            /assets/icons/abi.jpg
+      2x:            /assets/icons/abi.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
+    email:           abiagil@caltech.edu
+    github:          aepolin
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -67,16 +69,13 @@ author1:
     # keybase          <username>
 
 # Another author (optional)
-author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#author2:
+#  name:              <firtname> <lastname>
+#  email:             <mail@domain.tld>
+#  about:             |
+#    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-    Open `_data/authors.yml` to edit this text.
+#    Open `_data/authors.yml` to edit this text.
 
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
