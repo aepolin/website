@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am a theoretical and computational astrophysicist currently working as a joint postdoctoral research fellow at Carnegie Observatories and Caltech. Before moving to Pasadena I finished my PhD at the University of Califonia, Berkeley, working with my thesis advisors Peter Nugent and Dan Kasen. 
+    I am a theoretical and computational astrophysicist currently working as a joint postdoctoral research fellow at Carnegie Observatories and Caltech. Before moving to Pasadena I completed my PhD at the University of Califonia, Berkeley, working with my thesis advisors Peter Nugent and Dan Kasen. 
 
     My research spans the area of astrophysical transients. I create hydrodynamical simulations to examine the theory behind astrophysical explosions, then perform radiative transport calculations to produce testable predictions that can be compared directly to observed data.
 
