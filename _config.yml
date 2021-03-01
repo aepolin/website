@@ -25,7 +25,7 @@ title:                 Abigail Polin
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-   A website describing life, the universe and everything having to do with Abi Polin. (Mainly research...)
+   A website describing life, the universe and everything having to do with Abigail Polin. (Mainly research...)
 
 # A shorter description for the sidebar.
 tagline:    |
@@ -36,7 +36,7 @@ tagline:    |
 #   & Burke Fellow, Caltech
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [astronomy astrophysics supernovae physics]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
