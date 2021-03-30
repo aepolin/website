@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 author1:
   name:              Abigail Polin
-  email:             abigail@caltech.edy
+  email:             abigail@caltech.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -28,7 +28,7 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    email:           abiagil@caltech.edu
+    email:           abigail@caltech.edu
     github:          aepolin
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
