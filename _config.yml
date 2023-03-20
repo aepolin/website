@@ -304,7 +304,9 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
-
+  talks:
+    permalink:         abigailpolin.com/talks/:path/
+    output:            true
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
 
