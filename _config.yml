@@ -56,8 +56,8 @@ menu:
     url:               /about/
   - title:             CV
     url:               /cv/PolinCV.pdf
-#  - title:             Blog
-#    url:               /blog/
+  - title:             Talks
+    url:               /talks/
 #  - title:             Projects
 #    url:               /projects/
 #  - title:             Résumé*
