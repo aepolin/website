@@ -57,7 +57,7 @@ menu:
   - title:             CV
     url:               /cv/PolinCV.pdf
   - title:             Talks
-    url:               /talks/
+    url:               /talks/talks.md
 #  - title:             Projects
 #    url:               /projects/
 #  - title:             Résumé*
@@ -292,18 +292,18 @@ hydejack:
 # ----------------------------------------------------------------------------------------
 
 collections:
-  featured_categories:
-    permalink:         /blog/:name/
-    output:            true
-
-  featured_tags:
-    permalink:         /tag-:name/
-    output:            true
-
-  projects:
-    permalink:         /projects/:path/
-    output:            true
-
+#  featured_categories:
+#    permalink:         /blog/:name/
+#    output:            true
+#
+#  featured_tags:
+#    permalink:         /tag-:name/
+#    output:            true
+#
+#  projects:
+#    permalink:         /projects/:path/
+#    output:            true
+#
   talks:
     permalink:         /talks/:path/
     output:            true
