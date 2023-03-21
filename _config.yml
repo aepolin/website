@@ -301,7 +301,7 @@ collections:
 #    output:            true
 #
   projects:
-    permalink:         /projects/
+    permalink:         /projects/:path/
     output:            true
 
   talks:
