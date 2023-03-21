@@ -1,7 +1,7 @@
 ----
 layout:      project
-title:       NERSC Early Career Award Acceptance Talk
-date:        4 Nov 2021
+title:       'NERSC Early Career Award Acceptance Talk'
+date:        '11-04-2021'
 image:
   path:      /talks/images/nerscECA.jpg 
   srcset:
