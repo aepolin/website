@@ -1,18 +1,19 @@
 ---
 layout: project
-title: 'Test'
-caption: Dogfooding Hydejack to sell Hydejack.
+title: NERSC Early Career Award
+caption: Recipient talk for the 2021 NERSC Early Career Award for High Impact Scientific Impact
 description: >
-  While Hydejack is built for personal sites, it's versatility allows it to be used a product page as well.
-date: '01-01-2017'
+  My thesis work modelling the sub-Chandrasekhar mass pathway to Type Ia supernovae was performed mainly on the supercomputers at the National Energy Research Scientific Computing Center (NERSC). For this work I was awarded teh NERSC Early Career Award in 2021. This recipient talk is also a great summary of my thesis. 
+date: '04-11-2021'
 image: 
-  path: /assets/img/projects/hydejack-site.jpg
+  path: /assets/talks/nerscECA.jpg
   srcset: 
-    1920w: /assets/img/projects/hydejack-site.jpg
-    960w:  /assets/img/projects/hydejack-site@0,5x.jpg
-    480w:  /assets/img/projects/hydejack-site@0,25x.jpg
+    1920w: /assets/talks/nerscECA.jpg
+    960w:  /assets/talks/nerscECA.jpg
+    480w:  /assets/talks/nerscECA.jpg
 links:
-  - title: Link
-    url: https://hydejack.com/
+  - title: YouTube
+    url: https://www.youtube.com/watch?v=up5favOwx7Q
 sitemap: false
 ---
+
