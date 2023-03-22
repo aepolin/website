@@ -13,8 +13,8 @@ image:
     480w:  /assets/talks/RTI.jpg
 links:
   - title: YouTube
-    url: https://www.youtube.com/watch?v=up5favOwx7Q
+    url: https://www.youtube.com/watch?v=mfNqUWjoMks&t=9s
 sitemap: false
 ---
 <!--authors-->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/up5favOwx7Q" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mfNqUWjoMks" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
