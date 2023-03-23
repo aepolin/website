@@ -4,7 +4,7 @@ title: AAS Journal Author Series
 caption: I discuss my recent paper on our new method for analyzing the morphology of sueprnova remnants with AAS Journal Editor Frank Timmes.
 description: >
    A discussion with Frank Timmes about our new method for decomposing supernova remnants using spherical harmonics, and what the resulting power spectrum can reveal about the underlying supernova. For more detail see our ApJ Letter [Using Anisotropies as a Forensic Tool for Decoding Supernova Remnants](https://ui.adsabs.harvard.edu/abs/2022ApJ...940L..28P/abstract). 
-date: '01-11-2023'
+date: '2023'
 image: 
   path: /assets/talks/RTI.jpg
   srcset: 
