@@ -13,7 +13,7 @@ image:
     480w:  /assets/talks/RTI.jpg
 links:
   - title: YouTube
-    url: https://www.youtube.com/watch?v=mfNqUWjoMks&t=9s
+    url: https://www.youtube.com/watch?v=mfNqUWjoMks&t
 sitemap: false
 ---
 <!--author-->
