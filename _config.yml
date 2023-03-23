@@ -301,11 +301,11 @@ collections:
 #    output:            true
 #
   projects:
-    permalink:         /talks/:title/
+    permalink:         /projects/:title/
     output:            true
 
   talks:
-    permalink:         /talks/:path/
+    permalink:         /talks/:title/
     output:            true
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
