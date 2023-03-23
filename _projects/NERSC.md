@@ -17,4 +17,3 @@ links:
 sitemap: false
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/up5favOwx7Q" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<!--author-->
