@@ -6,4 +6,3 @@ description: >
     Some examples of my recorded research talks.
 no_groups: true
 ---
-<!--authors-->
