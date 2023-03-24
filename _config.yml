@@ -309,6 +309,18 @@ collections:
   talks:
     permalink:         /talks/:title/
     output:            true
+
+  research:
+    permalink:         /research/:title/
+    output:            true
+
+  outreach:
+    permalink:         /outreach/:title/
+    output:            true
+
+  students:
+    permalink:         /students/:title/
+    output:            true
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
 
