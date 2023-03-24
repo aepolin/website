@@ -54,6 +54,8 @@ author:
 menu:
   - title:             About
     url:               /about/
+  - title:             Research
+    url:               /research/TypeIaSNe/
   - title:             Talks
     url:               /talks/
   - title:             CV
