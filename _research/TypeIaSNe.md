@@ -4,7 +4,7 @@ title: Type Ia Supernovae
 caption: I am a leading expert in one of the pathways to Type Ia supernovae – the double detonation mechanism. In this scenario a White Dwarf is able to explode below the Chandrasekhar mass limit through the aid of an accreted helium shell. An ignition of this helium can send a shock wave into the center of the WD which, upon convergence, can ignite the core, causing a thermonuclear runaway resulting in a Type Ia-like explosion. 
 description: >
   2D hydrodynamic simulation of a double detonation arising from the ignition of a thick helium shell [Polin 2020](https://ui.adsabs.harvard.edu/abs/2020PhDT........22P/abstract).
-date: '01-01-2023'
+date: '10-01-2023'
 image: 
   path: /assets/research/2D_ddet.jpg
   srcset: 
