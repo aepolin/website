@@ -11,6 +11,9 @@ image:
     1920w: /assets/research/2D_ddet.jpg
     960w:  /assets/research/2D_ddet.jpg
     480w:  /assets/research/2D_ddet.jpg
+links:
+  - title: YouTube
+    url: https://www.youtube.com/watch?v=mfNqUWjoMks&t
 featured: false
 sitemap: false
 ---
