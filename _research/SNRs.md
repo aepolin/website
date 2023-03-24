@@ -21,7 +21,7 @@ sitemap: false
 ---
 <center>
 <img src="/assets/talks/RTI.jpg" alt="Polin2022" style="width:300"/>
-<span style="font-size: small"> <span style="line-height: 0.1em"> A 8192x8192 (rxθ) simulation of a supernova running into a circumstellar medium. The contact discontinuity between the forward and reverse shoack has become Rayleigh Taylor unstable ([Polin 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...940L..28P/abstract)). </span></span>
+<span style="font-size: small"> <span style="line-height: 0.1em"> A 8192x8192 (rxθ) simulation of a supernova running into a circumstellar medium. The contact discontinuity between the forward and reverse shoack has become Rayleigh Taylor unstable [Polin 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...940L..28P/abstract). </span></span>
 </center>
 /
 I have been working in a new direction in order to develop a new method for analyzing SNRs.The goal was to establish a quantitative method for understanding the morphology of SNRs. We showed that by decomposing the remnant into spherical harmonics and building a power spectrum of angular modes, it is possible to identify which scales in the remnant are dictated by turbulence and which exhibit features endemic to the underlying supernova.
