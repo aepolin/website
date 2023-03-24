@@ -20,7 +20,7 @@ featured: false
 sitemap: false
 ---
 <center>
-<img src="/assets/talks/SNR.jpg" alt="Polin2022" style="width:300"/>
+<img src="/assets/talks/RTI.jpg" alt="Polin2022" style="width:300"/>
 <span style="font-size: small"> <span style="line-height: 0.1em"> A 8192x8192 (rxθ) simulation of a supernova running into a circumstellar medium. The contact discontinuity between the forward and reverse shoack has become Rayleigh Taylor unstable ([Polin 2022](https://ui.adsabs.harvard.edu/abs/2022ApJ...940L..28P/abstract)). </span></span>
 </center>
 /
