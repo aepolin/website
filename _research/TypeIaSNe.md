@@ -14,8 +14,6 @@ image:
 links: 
   - title: Public Models 
   url: https://github.com/aepolin/DoubleDetonationModels
-  - title: Original Paper
-  url: https://ui.adsabs.harvard.edu/abs/2019ApJ...873...84P/abstract
 featured: false
 sitemap: false
 ---
