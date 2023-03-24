@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Modelling Type Ia Supernovae
+title: Type Ia Supernovae
 caption: I am a leading expert in one of the pathways to Type Ia supernovae – the double detonation mechanism. In this scenario a White Dwarf is able to explode below the Chandrasekhar mass limit through the aid of an accreted helium shell. An ignition of this helium can send a shock wave into the center of the WD which, upon convergence, can ignite the core, causing a thermonuclear runaway resulting in a Type Ia-like explosion. 
 description: >
   2D hydrodynamic simulation of a double detonation arising from the ignition of a thick helium shell [Polin 2020](https://ui.adsabs.harvard.edu/abs/2020PhDT........22P/abstract).
@@ -14,6 +14,8 @@ image:
 links:
   - title: YouTube
     url: https://www.youtube.com/watch?v=mfNqUWjoMks&t
+  - title: YouTube
+    url: https://www.youtube.com/watch?v=mfNqUWjoMks&t
 featured: false
 sitemap: false
 ---
@@ -21,4 +23,4 @@ Type Ia SNe are among the most common astrophysical transients, yet their progen
 
 My work on Type Ia supernovae mainly focuses on the double detonation mechanism. In this scenario a White Dwarf is able to explode below the Chandrasekhar mass limit through the aid of an accreted helium shell. An ignition of this helium can send a shock wave into the center of the WD which, upon convergence, can ignite the core, causing a thermonuclear runaway resulting in a Type Ia-like explosion. I modeled these explosions and determined their observational signatures. In doing so I identified a population of SNe Ia that likely arise from this progenitor channel and for the first time developed an empirical method for categorizing SNe Ia based on their differing physical origins.
 
-The mass of the accreted helium shell is the dominant factor in whether or not a double detonation can look like a Type Ia SN. For a sufficiently thin helium shell (either accreted from a degenerate companion or transferred during the a very close binary interaction--the D<sup>6</sup> mechanism) a double detonation can lead to a Type Ia SN. A double detonation triggered by a thick helium shell (accreted from a non-degenerate companion such as a He subdwarf) leads to an event with signatures not exhibited by normal Type Ia SNe. My thin shell explosion models predict a relationship between peak magnitude and velocity that we leveraged to discover a population of observed SNe Ia consistent with this progenitor scenario (see the above figure). Since we first published, it has been shown that the SNe in this population are redder, more polarized, and show stronger [Ca~II] emission features than typical SNe Ia. This evidence strongly suggests that SNe Ia arise from more than one progenitor channel, and for the first time provides an empirical method for classifying events based on their physical origin. These models are public and can be found [here](https://github.com/aepolin/DoubleDetonationModels). Using them with the phase I ZTF SNe Ia, current rate estimates for double detonations place them as consistent with roughly 60% of SNe Ia.  
+The mass of the accreted helium shell is the dominant factor in whether or not a double detonation can look like a Type Ia SN. For a sufficiently thin helium shell (either accreted from a degenerate companion or transferred during the a very close binary interaction--the D<sup>6</sup> mechanism) a double detonation can lead to a Type Ia SN. A double detonation triggered by a thick helium shell (accreted from a non-degenerate companion such as a He subdwarf) leads to an event with signatures not exhibited by normal Type Ia SNe. My thin shell explosion models predict a relationship between peak magnitude and velocity that we leveraged to discover a population of observed SNe Ia consistent with this progenitor scenario (see the above figure). Since we first published, it has been shown that the SNe in this population are redder, more polarized, and show stronger [Ca II] emission features than typical SNe Ia. This evidence strongly suggests that SNe Ia arise from more than one progenitor channel, and for the first time provides an empirical method for classifying events based on their physical origin. These models are public and can be found [here](https://github.com/aepolin/DoubleDetonationModels). Using them with the phase I ZTF SNe Ia, current rate estimates for double detonations place them as consistent with roughly 60% of SNe Ia.  
