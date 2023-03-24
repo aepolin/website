@@ -12,10 +12,10 @@ image:
     960w:  /assets/research/2D_ddet.jpg
     480w:  /assets/research/2D_ddet.jpg
 links:
-  - title: YouTube
-    url: https://www.youtube.com/watch?v=mfNqUWjoMks&t
-  - title: YouTube
-    url: https://www.youtube.com/watch?v=mfNqUWjoMks&t
+  - title: Public Models
+    url: https://github.com/aepolin/DoubleDetonationModels
+  - title: Original Paper
+    url: https://ui.adsabs.harvard.edu/abs/2019ApJ...873...84P/abstract
 featured: false
 sitemap: false
 ---
