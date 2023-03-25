@@ -58,10 +58,10 @@ menu:
     url:               /research/
   - title:             Talks
     url:               /talks/
-  - title:             CV
-    url:               /cv/PolinCV.pdf
   - title:             Outreach
     url:               /outreach/
+  - title:             CV
+    url:               /cv/PolinCV.pdf
 #  - title:             Projects
 #    url:               /projects/
 #  - title:             Résumé*

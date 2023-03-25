@@ -18,5 +18,21 @@ sitemap: false
 > 100 years ago Carnegie astronomer Edwin Hubble made a discovery from Mount Wilson that would change how we think of our place in the universe forever. The discovery of a variable star in the Andromeda galaxy allowed Hubble to establish conclusively that Andromeda is indeed a separate galaxy from the Milky Way. Join me as I discuss the history of astronomical distance measures, how we use them to map the universe, and open mysteries that puzzle us today.
 >
 >
-<img style="float: right;" src="/assets/icons/logo.png" class="avatar">
+
+## Past Events: 
+>
+>
+>
+
+## Classroom Activities:
+>
+> 
+\
+\
+\
+\
+\
+\
+\
+<img style="float: right;" src="/assets/icons/icon-144x144.png" class="avatar">
 
