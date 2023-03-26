@@ -42,7 +42,7 @@ sitemap: false
 >
 
 ## Classroom Activities:
-> 
+> One of the best ways we can reach our communities is by participating with the local school systems. I enjoy hands on exercises that put the demonstrations directly into the hands of the kids. My outreach with the community has come in many forms, from working with the NYPD to organize an egg drop when I was an undergraduate at NYU, to teaching in classroom science lessons with the [Bay Area Scientists in Schools](https://crscience.org/educators/basis/) program.   
 >
->
+> My current favorite activity to do with kids is a lesson on the electromagnetic spectrum involving a portable IR camera that I helped to developed with the Carnegie outreach and educations staff. This lesson is adaptable to all school age groups, and at the end of the day kids get to take home a infrared selfie.
 >
