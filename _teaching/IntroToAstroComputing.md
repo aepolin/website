@@ -17,7 +17,7 @@ links:
 sitemap: false
 ---
 
-# Astro 9: Introduction to Scientific Computing
+# Introduction to Scientific Computing
 
 This is an introductory course in scientific programming with emphasis on learning the tech- niques used to model the universe and analyze data. The focus of the course will be on the application and implementation of practical computational techniques useful throughout the physical sciences. In particular we will extensively use the python numpy/scipy/matplotlib stack to create programs and apply them to data drawn from a number of real world sources (astronomy, physics, finance, etc.). Topics covered in the course will include numerical integra- tion, sampling (i.e. Markov Chain Monte Carlo), optimization, interpolation and extrapolation of data, and the basic techniques used in astrophysical simulations (numerical solutions to dif- ferential equations etc.). Students will complete a final project on a topic of their choosing to explore how the topics learned in class are used in cutting edge scientific research. This course is designed to be an introduction for students interested in research in physics and astronomy.
 
