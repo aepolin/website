@@ -316,6 +316,10 @@ collections:
     permalink:         /research/:title/
     output:            true
 
+  teaching:
+    permalink:         /teaching/:title/
+    output:            true
+
   outreach:
     permalink:         /outreach/:title/
     output:            true
