@@ -28,7 +28,6 @@ sitemap: false
 >  <source src="/assets/outreach/KPOO.mp3" type="audio/mpeg">
 >  Your browser does not support the audio element.
 > </audio>
-> <br>
 > We discuss science, supernovae, and women in STEM.
 >
 >
