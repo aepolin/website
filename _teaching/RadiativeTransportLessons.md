@@ -14,7 +14,6 @@ image:
 links:
   - title: YouTube
     url: https://www.youtube.com/@AbigailPolin
-featured: true
 sitemap: false
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xYZfXV0PFkc" title="YouTube video player" frameborder="0" allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
