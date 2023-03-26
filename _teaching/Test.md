@@ -1,16 +1,16 @@
 ---
 layout: project
-title: Radiative Transport Lessons
-caption: Recorded lectures for UC Berkeley's graduate Radiative Transport course. Includes a lecture on basic plamsa effects and one on Faraday rotation. 
+title: Introduction to Scientific Programming for Physics and Astronomy
+caption: In 2020 I had the opportunity to design and teach my own course at UC Berkeley, Astro 9: Introduction to Scientific Computing for Physics and Astronomy. I intended this course to fill a gap in the undergraduate curriculum where no computing course was required for the undergraduate astronomy majors. The focus of the course was the application and implementation of practical computational techniques.
 description: >
-   In 2014 we were experimenting with a flipped classroom format for the graduate Radiative Transport course at UC Berkeley. I provided the lectures on basic Plasma Effects and on Faraday Rotation which you can watch below.
-date: '01-03-2014'
+    The focus of the course was the application and implementation of practical computational techniques. My goal was that students leave with the computational fluency needed to participate in scientific research at the level of an undergraduate, e.g. at an NSF REU. Below is a description of my course and sylllabus if you are interested in staring such a course at your institution and would like to see more of my materials, please shoot me an email.
+date: '01-03-2020'
 image: 
-  path: /assets/teaching/faradayrotation.jpg
+  path: /assets/teaching/berkeley.jpg
   srcset: 
-    1920w: /assets/teaching/faradayrotation.jpg
-    960w:  /assets/teaching/faradayrotation.jpg
-    480w:  /assets/teaching/faradayrotation.jpg
+    1920w: /assets/teaching/berkeley.jpg
+    960w:  /assets/teaching/berkeley.jpg
+    480w:  /assets/teaching/berkeley.jpg
 links:
 sitemap: false
 ---
