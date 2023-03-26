@@ -11,7 +11,9 @@ image:
     1920w: /assets/teaching/berkeley.jpg
     960w:  /assets/teaching/berkeley.jpg
     480w:  /assets/teaching/berkeley.jpg
-links: none
+links:   
+  - title: CV
+    url: https://abigailpolin.com/cv/PolinCV.pdf
 sitemap: false
 ---
 # Astro 9: Introduction to Scientific Computing
