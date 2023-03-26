@@ -22,14 +22,14 @@ sitemap: false
 ## Past Events:
 > **[Interview with KPOO Radio](http://www.vicesbyproxy.com/kpoo_play/lmtym-2020.html), San Francisico** as a Wonderfest Science Ambassador
 > \
-> March 2020 \
+> March 2020
 > 
-> 
+> <br>
 > <audio controls>
 >  <source src="/assets/outreach/KPOO.mp3" type="audio/mpeg">
 >  Your browser does not support the audio element.
 > </audio>
-> 
+> <br>
 > 
 > We discuss science, supernovae, and women in STEM.
 >
