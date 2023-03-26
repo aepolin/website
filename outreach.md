@@ -20,7 +20,7 @@ sitemap: false
 >
 
 ## Past Events:
-> **Interview with KPOO Radio, San Francisico** as a Wonderfest Science Ambassador
+> **[Interview with KPOO Radio](http://www.vicesbyproxy.com/kpoo_play/lmtym-2020.html), San Francisico** as a Wonderfest Science Ambassador
 > \
 > March 2020 \
 > \
