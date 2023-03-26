@@ -20,12 +20,23 @@ sitemap: false
 >
 
 ## Past Events:
-> **Interview with KPOO Radio, San Francisico**
+> **Interview with KPOO Radio, San Francisico** as a Wonderfest Science Ambassador
+> \
+> March 2020
+> \
+> \
 > <audio controls>
 >  <source src="/assets/outreach/KPOO.mp3" type="audio/mpeg">
 >  Your browser does not support the audio element.
 > </audio>
-> I discuss science, supernovae and women in STEM.
+> \
+> \
+> We discuss science, supernovae, and women in STEM.
 >
 >
-
+> **[Astronomy on Tap](https://www.astro.caltech.edu/outreach/aot#:~:text=Our%20in%2Dperson%20Astronomy%20on,at%207%3A30%20PM%20PT.), Pasadena CA**
+> \
+> Stars that Go Boom in the Night (A Spooky Halloween Themed Astro on Tap) \
+> October 2022
+> ![Huntington Talk](/assets/outreach/astroontap.jpg)
+>
