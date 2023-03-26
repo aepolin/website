@@ -23,8 +23,8 @@ sitemap: false
 > **[Interview with KPOO Radio](http://www.vicesbyproxy.com/kpoo_play/lmtym-2020.html), San Francisico** as a Wonderfest Science Ambassador
 > \
 > March 2020 \
-> \
-> \
+> 
+> 
 > <audio controls>
 >  <source src="/assets/outreach/KPOO.mp3" type="audio/mpeg">
 >  Your browser does not support the audio element.
@@ -39,4 +39,10 @@ sitemap: false
 > Stars that Go Boom in the Night (A Spooky Halloween Themed Astro on Tap) \
 > October 2022
 > ![Huntington Talk](/assets/outreach/astroontap.jpg)
+>
+
+## Classroom Activities:
+> 
+>
+>
 >
