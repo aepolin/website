@@ -7,7 +7,7 @@ authors: out
 sitemap: false
 ---
 ## Upcoming Events: 
-> **[Carnegie Astronomy Lecture Series](https://obs.carnegiescience.edu/news/huntington_online) at the Huntington Botanical Gardens and Library.** \
+> **[Carnegie Astronomy Lecture Series](https://huntington.org/event/carnegie-observatories-lecture-series-century-distance-measures) at the Huntington Botanical Gardens and Library.** \
 > May 8th 2023
 >
 > ![Huntington Talk](/assets/outreach/HuntingtonImage.jpg)
