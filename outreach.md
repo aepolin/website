@@ -6,12 +6,11 @@ description: >
 authors: out
 sitemap: false
 ---
-## Upcoming Events: 
+## Recent Events: 
 > **[Carnegie Astronomy Lecture Series](https://huntington.org/event/carnegie-observatories-lecture-series-century-distance-measures) at the Huntington Botanical Gardens and Library.** \
 > May 8th 2023
 >
-> ![Huntington Talk](/assets/outreach/HuntingtonImage.jpg)
-> Left: The plate taken by Edwin Hubble that shows the discovery of a cepheid variable in Andromenda, property of Carnegie Observatories. Right: Modern Image of Andromeda. ESA/Hubble. 2002 R. Gendler.
+> <iframe id="ls_embed_1683655392" src="https://livestream.com/accounts/14570535/events/10853613/videos/236143057/player?width=640&height=360&enableInfo=true&defaultDrawer=&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe>
 >
 > **A Century of Distance Measures**
 >
