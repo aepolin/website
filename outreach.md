@@ -8,7 +8,7 @@ sitemap: false
 ---
 ## Recent Events: 
 > **[Carnegie Astronomy Lecture Series](https://huntington.org/event/carnegie-observatories-lecture-series-century-distance-measures) at the Huntington Botanical Gardens and Library.** \
-> May 8th 2023
+> May 8th 2023 \
 >
 > <iframe id="ls_embed_1683655392" src="https://livestream.com/accounts/14570535/events/10853613/videos/236143057/player?width=640&height=360&enableInfo=true&defaultDrawer=&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe>
 >
