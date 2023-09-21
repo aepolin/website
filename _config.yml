@@ -43,6 +43,11 @@ keywords:              [astronomy, astrophysics, supernovae, physics]
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  false # /assets/icons/abi.jpg
 
+
+#adding official path to favicon and apple touch ID
+favicon: assets/icons/favicon.ico
+apple_touch_icon: assets/icons/logo.png
+
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Abigail Polin
