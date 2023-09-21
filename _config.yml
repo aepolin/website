@@ -435,22 +435,19 @@ jekyll_compose:
     drafts:
       layout: post
       description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+        A post by Abigail Polin.
       image:
         path: /assets/img/sidebar-bg.jpg
     posts:
       layout: post
       description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+        A post by Abigail Polin.
       image:
         path: /assets/img/sidebar-bg.jpg
     projects:
       layout: project
       description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+        A post by Abigail Polin.
       image:
         path: /assets/img/sidebar-bg.jpg
       links:
