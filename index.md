@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Abi
-sitemap: false
+sitemap: true
 ---
 <!--author-->
 
