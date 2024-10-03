@@ -51,7 +51,7 @@ apple_touch_icon: assets/icons/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Abigail Polin
-  email:               abigail@caltech.edu
+  email:               abigail@purdue.edu
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
