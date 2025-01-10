@@ -3,16 +3,16 @@
 # Change `author1` to your shortname.
 abi:
   name:              Abigail Polin
-  email:             abigail@caltech.edu
+  email:             abigail@purdue.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hi, I'm Abigail Polin. I am a theoretical and computational astrophysicist currently working as a joint postdoctoral research fellow at Carnegie Observatories and Caltech. Before moving to Pasadena I completed my PhD at the University of Califonia, Berkeley, working with my thesis advisors Peter Nugent and Dan Kasen. I am very excited to announce that in Fall 2024 I will be joining Purdue University as an Assistant Professor in Physics and Astronomy. 
+    Hi, I'm Abigail Polin. I am a theoretical and computational astrophysicist and a professor of physics and astronomy at Purdue Univserity. Before moving to Indiana I worked as a joint postdoctoral research fellow at Carnegie Observatories and Caltech in Pasadena, CA. I completed my PhD in 2020 at the University of Califonia, Berkeley, working with my thesis advisors Peter Nugent and Dan Kasen. 
 
     My research spans the area of astrophysical transients. I create hydrodynamical simulations to examine the theory behind astrophysical explosions, then perform radiative transport calculations to produce testable predictions that can be compared directly to observed data.
 
-    Recently I was awarded the NERSC Early Career Award for High Impact Scientific Achievement for my work modeling the sub-Chandrasekhar mass pathway to Type Ia Supernovae. My recipient talk can be found [here](https://youtu.be/up5favOwx7Q) and is a nice summary of my thesis. 
+    Recently I was awarded the NERSC Early Career Award for High Impact Scientific Achievement for my work modeling the sub-Chandrasekhar mass pathway to Type Ia Supernovae. My recipient talk can be found [here](https://youtu.be/up5favOwx7Q). 
 
     Follow this [link](https://ui.adsabs.harvard.edu/public-libraries/rnzPkOnNRQOugl8kwMgynA) for an up to date list of publications.
 
