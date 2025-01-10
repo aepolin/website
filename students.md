@@ -3,7 +3,7 @@ layout: projects
 title: Students
 show_collection: students
 description: >
-  I have mentored both graduate and undergraduate student research in both theory and data driven projects, for a full list of students please see my [CV](https://abigailpolin.com/cv/PolinCV.pdf).
+  I have mentored both graduate and undergraduate student research in both theory and data driven projects, for a full list of students please see my [CV](https://abigailpolin.com/cv/PolinCV_2025.pdf).
 no_groups: true
 sitemap: true
 ---
