@@ -30,10 +30,7 @@ description:           >
 # A shorter description for the sidebar.
 tagline:    |
    Astrophysicist \\
-   Caltech & \\
-   Carnegie Observatories
-#   CTAC Fellow, Carnegie Observatories \\
-#   & Burke Fellow, Caltech
+   Purdue University
 
 # A list of keywords for your blog
 keywords:              [astronomy, astrophysics, supernovae, physics]
@@ -59,16 +56,12 @@ author:
 menu:
   - title:             About
     url:               /about/
+  - title:             Students
+    url:               /students/
   - title:             Research
     url:               /research/
   - title:             Talks
     url:               /talks/
-  - title:             Students
-    url:               /students/
-  - title:             Teaching
-    url:               /teaching/
-  - title:             Outreach
-    url:               /outreach/
   - title:             CV
     url:               /cv/PolinCV.pdf
 #  - title:             Projects
