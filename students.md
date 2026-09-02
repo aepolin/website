@@ -191,7 +191,7 @@ Scherbak, P., Polin, A., Kasliwal, M., et al. (2025). *PASP*, 137, 114207. [doi:
 
 **Peter Scherbak** — 1st Year Graduate Rotation, Caltech - Now applying for PostDoc Positions
 
-**Owen Odney** — Undergraduate, Purdue University - Now a PhD Student at the Univserity of Minnesota
+**Owen Odney** — Undergraduate, Purdue University - Now a PhD Student at the University of Minnesota
 
 **Roy Galazka** — Undergraduate, Purdue University - Now a Masters Student at Northwestern
 
